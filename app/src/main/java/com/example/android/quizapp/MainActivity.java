@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
-    //The below highlights the correct answers to each questions.
+    //The below highlights the correct answers to each question.
     // Question 1
     RadioButton question1_choice1;
     // Question 2
